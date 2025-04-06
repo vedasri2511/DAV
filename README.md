@@ -2,5 +2,14 @@
 
 Dataset Information:
 
-This project uses a dataset sourced from Kaggle.
-The dataset provides valuable information for building and testing our application.
+This project uses the Student Performance Data from Kaggle.
+
+Dataset Name: Student Performance Data
+
+Source: Kaggle
+
+Rows: 395
+
+Columns: 33
+
+Format: CSV (.csv)
